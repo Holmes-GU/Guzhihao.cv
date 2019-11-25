@@ -13,7 +13,7 @@ E-mail address: ellery-holmes@sjtu.edu.cn
 2012.9 - 2016.9 UJS  School of Science
 
 ## Publications
--- Zhihao Gu,   20XX
+* Zhihao Gu,   20XX
 
 -- Zhihao Gu, Fang Li, Faming Fang, and Guixu Zhang. A Novel Retinex-Based Fractional-Order Variational Model for Images with Severely Low light. IEEE Transactions on Image Processing, 2019.
 
