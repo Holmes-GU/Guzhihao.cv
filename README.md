@@ -1,5 +1,6 @@
 # Gu zhihao - Personal Resume
-##Self Introduction
+
+## Self Introduction
 My research interest for now is mainly on object detection. I am also interested in Generative Adversarial Networks (GAN), Transfer Learning and Interpretation of Deep Learning.
 
 E-mail address: ellery-holmes@sjtu.edu.cn
