@@ -3,7 +3,7 @@ E-mail address: ellery-holmes@sjtu.edu.cn
 
 My research interest for now is mainly on object detection. I am also interested in Generative Adversarial Networks (GAN), Transfer Learning and Interpretation of Deep Learning.
 
-# Educations
+## Educations
 2019.9 - 202X.6 SJTU School of Electronical Information and Electrical Engineering 
 
 2016.9 - 2019.6 ECNU School of Mathematics
