@@ -1,5 +1,5 @@
 # Gu zhihao - Personal Resume
-E-mail address:ellery-holmes@sjtu.edu.cn
+E-mail address: ellery-holmes@sjtu.edu.cn
 
 # Educations
 2019.9 - 202X.6 SJTU Computer Science 
