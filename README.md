@@ -1,7 +1,8 @@
 # Gu zhihao - Personal Resume
-E-mail address: ellery-holmes@sjtu.edu.cn
-
+##Self Introduction
 My research interest for now is mainly on object detection. I am also interested in Generative Adversarial Networks (GAN), Transfer Learning and Interpretation of Deep Learning.
+
+E-mail address: ellery-holmes@sjtu.edu.cn
 
 ## Educations
 2019.9 - 202X.6 SJTU School of Electronical Information and Electrical Engineering 
@@ -10,7 +11,7 @@ My research interest for now is mainly on object detection. I am also interested
 
 2012.9 - 2016.9 UJS  School of Science
 
-# Publications
+## Publications
 -- Zhihao Gu,   20XX
 
 -- Zhihao Gu, Fang Li, Faming Fang, and Guixu Zhang. A Novel Retinex-Based Fractional-Order Variational Model for Images with Severely Low light. IEEE Transactions on Image Processing, 2019.
