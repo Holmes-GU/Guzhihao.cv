@@ -2,11 +2,11 @@
 E-mail address: ellery-holmes@sjtu.edu.cn
 
 # Educations
-2019.9 - 202X.6 SJTU Computer Science 
+2019.9 - 202X.6 SJTU School of Electronical Information and Electrical Engineering 
 
-2016.9 - 2019.6 ECNU Mathematics
+2016.9 - 2019.6 ECNU School of Mathematics
 
-2012.9 - 2016.9 Jiang Su Unviversity Mathematics
+2012.9 - 2016.9 UJS  School of Science
 
 # Publications
 -- Zhihao Gu,   20XX
