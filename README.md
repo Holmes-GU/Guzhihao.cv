@@ -2,7 +2,8 @@
 Personal resume.
 
 # Educations
-2019.9 -        SJTU Computer Science \alpha
+2019.9 -        SJTU Computer Science 
+
 2016.9 - 2019.6 ECNU Mathematics
 
 2012.9 - 2016.8 Jiang Su Unviversity Mathematics
