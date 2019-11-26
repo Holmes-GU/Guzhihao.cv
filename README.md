@@ -5,9 +5,9 @@ My research interest for now is mainly on object detection. I am also interested
 E-mail address: ellery-holmes@sjtu.edu.cn
 
 ## Educations
-2019.9 - 202X.6 SJTU School of Electronical Information and Electrical Engineering DMCV Lab  
-2016.9 - 2019.6 ECNU School of Mathematics  
-2012.9 - 2016.9 UJS  School of Science
+2019.9 - 202X.6 SJTU  School of Electronical Information and Electrical Engineering DMCV Lab  
+2016.9 - 2019.6 ECNU  School of Mathematics  
+2012.9 - 2016.9 UJS   School of Science
 
 ## Publications
 * Zhihao Gu,   20XX  
