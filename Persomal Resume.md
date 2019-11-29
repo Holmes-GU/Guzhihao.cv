@@ -5,7 +5,7 @@
 ## Education
 - 2019.9 - 202X.6 &nbsp;   ***SJTU*** &nbsp; ```School of Electronical Information and Electrical Engineering``` &nbsp;  _DMCV Lab_  
 - 2016.9 - 2019.6 &nbsp;   ***ECNU*** &nbsp; ```School of Mathematics``` 
-- 2012.9 - 2016.9 &nbsp;   ***UJS***  &nbsp;&nbsp;  ```School of Science``` 
+- 2012.9 - 2016.9 &nbsp;   ***UJS***  &nbsp;&nbsp;&nbsp;  ```School of Science``` 
 
 ## Publications
 * Zhihao Gu,   20XX  
