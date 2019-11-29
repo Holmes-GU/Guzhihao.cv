@@ -4,7 +4,7 @@
 
 ## Education
 - 2019.9 - 202X.6 &nbsp;   _SJTU_ &nbsp; School of Electronical Information and Electrical Engineering &nbsp;  _DMCV Lab_  
-- 2016.9 - 2019.6 &nbsp;   _ECNU_ &nbsp; School of Mathematics
+- 2016.9 - 2019.6 &nbsp;   _ECNU_  School of Mathematics
 - 2012.9 - 2016.9 &nbsp;   _UJS_  &nbsp;&nbsp;&nbsp; School of Science
 
 ## Publications
