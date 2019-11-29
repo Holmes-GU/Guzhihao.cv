@@ -3,7 +3,7 @@
 - E-mail address: ellery-holmes@sjtu.edu.cn
 
 ## Education
-- 2019.9 - 202X.6 ***SJTU***  ```School of Electronical Information and Electrical Engineering```   DMCV Lab  
+- 2019.9 - 202X.6 &nbsp ***SJTU***  ```School of Electronical Information and Electrical Engineering```   DMCV Lab  
 - 2016.9 - 2019.6 ***ECNU***  ```School of Mathematics``` 
 - 2012.9 - 2016.9 ***UJS***   ```School of Science``` 
 
