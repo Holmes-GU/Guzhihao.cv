@@ -17,8 +17,8 @@
 - 2017.3  基于块组低秩稀疏结构的图像处理变分模型和算法研究(编号: 11671002)
 
 ## Conference Attendance
-- 2019.8  世界人工智能大会 国际前沿算法论坛，腾讯论坛；  
-- 2019.5 &nbsp;  Cross Media Intelligence and Computer Vision Graduate Academi Forum &nbsp; SJTU；  
+- 2019.8 &nbsp; WAIC &nbsp; International Frontier Algorithm Forum，Tencent Forum；  
+- 2019.5 &nbsp; Cross Media Intelligence and Computer Vision Graduate Academi Forum &nbsp; SJTU；  
 - 2018.9 TencentYouTu &《Science》 Computer Vision Summit；  
 - 2018.7 &nbsp; Deep Learning Seminar &nbsp; SJTU；  
 - 2018.5 &nbsp; UNION OF MATHEMATICAL IMAGING Annual Meeting &nbsp; ECNU；  
