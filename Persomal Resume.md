@@ -21,8 +21,8 @@
 - 2019.5 上海交通大学 ‘‘跨媒体智能与计算机视觉’’ 研究生学术论坛；  
 - 2018.9 腾讯优图&《Science》 计算机视觉峰会；  
 - 2018.7 上海交通大学电子信息与电气工程学院 深度学习研讨会；  
-- 2018.5 华东师范大学计算机与软件学院 数学图像联盟2018年度会议；  
-- 2017.4 &nbsp; Vision adn Learning Seminar &nbsp; Xiameng University；  
+- 2018.5 &nbsp; UNION OF MATHEMATICAL IMAGING Annual Meeting &nbsp; ；  
+- 2017.4 &nbsp; Vision and Learning Seminar &nbsp; Xiameng University；  
 
 
 
