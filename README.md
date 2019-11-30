@@ -1,2 +1,2 @@
 # Guzhihao.cv
-Personal resume.
+This ia a `personal resume` repository.
