@@ -18,10 +18,10 @@
 
 ## Conference Attendance
 - 2019.8  世界人工智能大会 国际前沿算法论坛，腾讯论坛；  
-- 2019.5 上海交通大学 ‘‘跨媒体智能与计算机视觉’’ 研究生学术论坛；  
-- 2018.9 腾讯优图&《Science》 计算机视觉峰会；  
-- 2018.7 上海交通大学电子信息与电气工程学院 深度学习研讨会；  
-- 2018.5 &nbsp; UNION OF MATHEMATICAL IMAGING Annual Meeting &nbsp; ；  
+- 2019.5 &nbsp;  Cross Media Intelligence and Computer Vision Graduate Academi Forum &nbsp; SJTU；  
+- 2018.9 TencentYouTu &《Science》 Computer Vision Summit；  
+- 2018.7 &nbsp; Deep Learning Seminar &nbsp; SJTU；  
+- 2018.5 &nbsp; UNION OF MATHEMATICAL IMAGING Annual Meeting &nbsp; ECNU；  
 - 2017.4 &nbsp; Vision and Learning Seminar &nbsp; Xiameng University；  
 
 
