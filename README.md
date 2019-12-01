@@ -18,8 +18,8 @@
 
 ## Publications
 * Zhihao Gu,   20XX  
-* Zhihao Gu, Fang Li, Faming Fang, and Guixu Zhang. A Novel Retinex-Based Fractional-Order Variational Model for Images with Severely Low Light. *IEEE Transactions on Image Processing*, 2019. &nbsp; _[code](https://github.com/Holmes-GU/Image-Retinex/tree/master/2019%20AMM%20retinex)_ _[paper](https://www.sciencedirect.com/science/article/abs/pii/S0307904X18305961)_
-* Zhihao Gu, Fang Li, and Xiao-Guang Lv. A detail preserving variational model for image retinex. *Applied Mathematical Modelling*, 68:643–661, 2019. &nbsp; _[code](https://github.com/Holmes-GU/Image-Retinex/tree/master/2019%20TIP%20retinex)_
+* Zhihao Gu, Fang Li, Faming Fang, and Guixu Zhang. A Novel Retinex-Based Fractional-Order Variational Model for Images with Severely Low Light. *IEEE Transactions on Image Processing*, 2019. &nbsp; _[code](https://github.com/Holmes-GU/Image-Retinex/tree/master/2019%20AMM%20retinex)_ &nbsp; _[paper](https://www.sciencedirect.com/science/article/abs/pii/S0307904X18305961)_
+* Zhihao Gu, Fang Li, and Xiao-Guang Lv. A detail preserving variational model for image retinex. *Applied Mathematical Modelling*, 68:643–661, 2019. &nbsp; _[code](https://github.com/Holmes-GU/Image-Retinex/tree/master/2019%20TIP%20retinex)_ &nbsp; [paper]
 
 ## Project-Experiences
 - 2019.9  
