@@ -1,7 +1,7 @@
 [Self Introduction](#Self Introduction)
 [Education](#Education)
 [Publications](#Publications)
-[Project Experiences](#Project Experiences)
+[Project-Experiences](#Project Experiences)
 [Conference Attendance](#Conference Attendance)
 
 ## Self Introduction
