@@ -14,7 +14,7 @@
 
 ## Project Experiences
 - 2019.9  
-- 2017.3  基于块组低秩稀疏结构的图像处理变分模型和算法研究(编号: 11671002)
+- 2017.3 &nbsp; Research on Low Rank, Sparse and patch-based Structure Image Processing Variational Models and Algorithms  &nbsp; (Number: 11671002)
 
 ## Conference Attendance
 - 2019.8 &nbsp; WAIC &nbsp; International Frontier Algorithm Forum，Tencent Forum；  
