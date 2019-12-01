@@ -14,7 +14,7 @@
 
 ## Project Experiences
 - 2019.9  
-- 2017.3 &nbsp; Research on Low Rank, Sparse and patch-based Structure Image Processing Variational Models and &nbsp; &nbsp; Algorithms  &nbsp; (Number: 11671002)
+- 2017.3 &nbsp; Research on Low Rank, Sparse and Patch-based Structure Image Processing Variational Models and Algorithms  &nbsp; (Number: 11671002)
 
 ## Conference Attendance
 - 2019.8 &nbsp; WAIC &nbsp; International Frontier Algorithm Forum，Tencent Forum；  
