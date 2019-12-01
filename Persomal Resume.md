@@ -1,8 +1,8 @@
-[Self-Introduction](#Self-Introduction)  
-[Education](#Education)  
-[Publications](#Publications)  
-[Project-Experiences](#Project-Experiences)  
-[Conference-Attendance](#Conference-Attendance)  
+- [Self-Introduction](#Self-Introduction)  
+- [Education](#Education)  
+- [Publications](#Publications)  
+- [Project-Experiences](#Project-Experiences)  
+- [Conference-Attendance](#Conference-Attendance)  
 
 ## Self-Introduction
 - My research interest for now is mainly on _object detection_. I am also interested in _Generative Adversarial Networks (GAN)_, _Transfer Learning_ and _Interpretation of Deep Learning_.  
