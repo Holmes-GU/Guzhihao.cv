@@ -9,7 +9,7 @@
 
 ## Self-Introduction
 - My research interest for now is mainly on _object detection_. I am also interested in _Generative Adversarial Networks (GAN)_, _Transfer Learning_ and _Interpretation of Deep Learning_.  
-- E-mail address: ellery-holmes@sjtu.edu.cn
+- E-mail address: _ellery-holmes@sjtu.edu.cn_
 
 ## Education
 - 2019.9 - 202X.6 &nbsp;   _SJTU_ &nbsp; School of Electronical Information and Electrical Engineering &nbsp;  _DMCV Lab_  
