@@ -30,7 +30,7 @@
 - 2019.5 &nbsp; _Cross Media Intelligence and Computer Vision Graduate Academi Forum &nbsp; SJTU_；  
 - 2018.9 &nbsp; _TencentYouTu &《Science》 Computer Vision Summit_；  
 - 2018.7 &nbsp; _Deep Learning Seminar &nbsp; SJTU_；  
-- 2018.5 &nbsp; _UNION OF MATHEMATICAL IMAGING Annual Meeting &nbsp; ECNU_；  
+- 2018.5 &nbsp; _The 18th Union of Mathemtical Image Annual Meeting &nbsp; ECNU_；  
 - 2017.4 &nbsp; _Vision and Learning Seminar &nbsp; Xiameng University_；  
 
 
