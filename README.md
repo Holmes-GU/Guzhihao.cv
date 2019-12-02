@@ -26,11 +26,11 @@
 - 2017.3 &nbsp; Research on Low Rank, Sparse and Patch-based Structure Image Processing Variational Models and Algorithms  &nbsp; (Number: 11671002)
 
 ## Conference-Attendance
-- 2019.8 &nbsp; WAIC &nbsp; International Frontier Algorithm Forum，Tencent Forum；  
-- 2019.5 &nbsp; Cross Media Intelligence and Computer Vision Graduate Academi Forum &nbsp; SJTU；  
-- 2018.9 &nbsp; TencentYouTu &《Science》 Computer Vision Summit；  
-- 2018.7 &nbsp; Deep Learning Seminar &nbsp; SJTU；  
-- 2018.5 &nbsp; UNION OF MATHEMATICAL IMAGING Annual Meeting &nbsp; ECNU；  
-- 2017.4 &nbsp; Vision and Learning Seminar &nbsp; Xiameng University；  
+- 2019.8 &nbsp; _WAIC &nbsp; International Frontier Algorithm Forum，Tencent Forum_；  
+- 2019.5 &nbsp; _Cross Media Intelligence and Computer Vision Graduate Academi Forum &nbsp; SJTU_；  
+- 2018.9 &nbsp; _TencentYouTu &《Science》 Computer Vision Summit_；  
+- 2018.7 &nbsp; _Deep Learning Seminar &nbsp; SJTU_；  
+- 2018.5 &nbsp; _UNION OF MATHEMATICAL IMAGING Annual Meeting &nbsp; ECNU_；  
+- 2017.4 &nbsp; _Vision and Learning Seminar &nbsp; Xiameng University_；  
 
 
