@@ -18,7 +18,7 @@
 
 ## Publications
 * ***Zhihao Gu***,   20XX 
-* Mengtian Li, ***Zhihao Gu***, Yuan Xie, Haichuan Song, Lizhuang Ma. Attention-aware Graph Convolutional Neural Network for Point Cloud Analysis. *Pattern Recognition*, , 20xx.
+* Mengtian Li, ***Zhihao Gu***, Yuan Xie, Haichuan Song, Lizhuang Ma. Attention-aware Graph Convolutional Neural Network for Point Cloud Analysis. *Pattern Recognition*, , 2021.
 * ***Zhihao Gu***, Fang Li, Faming Fang, and Guixu Zhang. A Novel Retinex-Based Fractional-Order Variational Model for Images with Severely Low Light. *IEEE Transactions on Image Processing*, 29:3239-3253, 2019. &nbsp; [_[Paper](https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=A%20Novel%20Retinex-Based%20Fractional-Order%20Variational%20Model%20for%20Images%20With%20Severely%20Low%20Light)_] &nbsp; [_[Code](https://github.com/Holmes-GU/Image-Retinex/tree/master/2019%20TIP%20retinex)_] 
 * ***Zhihao Gu***, Fang Li, and Xiao-Guang Lv. A detail preserving variational model for image retinex. *Applied Mathematical Modelling*, 68:643–661, 2019. &nbsp; [_[Paper](https://github.com/Holmes-GU/Image-Retinex/tree/master/2019%20AMM%20retinex)_] &nbsp; [_[Code](https://github.com/Holmes-GU/Image-Retinex/tree/master/2019%20AMM%20retinex)_] 
 
