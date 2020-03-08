@@ -8,7 +8,7 @@
 - [Conference-Attendance](#Conference-Attendance)  
 
 ## Self-Introduction
-- My research interest for now is mainly on [_object detection(https://github.com/Holmes-GU/Object-Detection)_]. I am also interested in _Generative Adversarial Networks (GAN)_, _Transfer Learning_ and _Interpretation of Deep Learning_.  
+- My research interest for now is mainly on [_[object detection](https://github.com/Holmes-GU/Object-Detection)_]. I am also interested in _Generative Adversarial Networks (GAN)_, _Transfer Learning_ and _Interpretation of Deep Learning_.  
 - E-mail address: _ellery-holmes@sjtu.edu.cn_
 
 ## Education
