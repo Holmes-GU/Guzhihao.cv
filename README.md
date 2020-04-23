@@ -5,7 +5,7 @@
 - [Education](#Education)  
 - [Publications](#Publications)  
 - [Project-Experiences](#Project-Experiences) 
-- [Conference reviewer](#Conference reviewer)
+- [Academic Activities](#Academic Activities)
 - [Conference-Attendance](#Conference-Attendance)  
 
 ## Self-Introduction
