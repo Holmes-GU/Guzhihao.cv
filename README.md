@@ -5,7 +5,7 @@
 - [Education](#Education)  
 - [Publications](#Publications)  
 - [Project-Experiences](#Project-Experiences) 
-- [Academic Activities](#Academic Activities)
+- [Academic-Activities](#Academic-Activities)
 - [Conference-Attendance](#Conference-Attendance)  
 
 ## Self-Introduction
@@ -27,7 +27,7 @@
 - 2019.9-2020.11 &nbsp; ...
 - 2017.3-20xx.xx &nbsp; Research on Low Rank, Sparse and Patch-based Structure Image Processing Variational Models and Algorithms  &nbsp; (Number: 11671002)
 
-## Academic Activities
+## Academic-Activities
 - Conference reviewer: NCIG2020.
 
 ## Conference-Attendance
