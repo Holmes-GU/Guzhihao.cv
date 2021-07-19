@@ -25,7 +25,7 @@
 
 ## Project-Experiences
 - 2021.01-20xx.xx &nbsp; Research intern at YouTu Lab, Tencent;
-- - 2021.05-2021.06 &nbsp; 3rd Face Anti-spoofing Challenge@ICCV2021, second place;
+  2021.05-2021.06 &nbsp; 3rd Face Anti-spoofing Challenge@ICCV2021, second place;
 - 2019.09-2020.10 &nbsp; AI Vision Based Auto-landing and Foreign Objects Detection, Honeywell International; 
 - 2017.03-2019.06 &nbsp; Research on Low Rank, Sparse and Patch-based Structure Image Processing Variational Models and Algorithms  &nbsp; (Number: 11671002)
 
