@@ -24,7 +24,7 @@
 * ***Zhihao Gu***, _Fang Li, and Xiao-Guang Lv_. A detail preserving variational model for image retinex. *Applied Mathematical Modelling* 68 (2019):643–661. &nbsp; [_[Paper](https://github.com/Holmes-GU/Image-Retinex/tree/master/2019%20AMM%20retinex)_] &nbsp; [_[Code](https://github.com/Holmes-GU/Image-Retinex/tree/master/2019%20AMM%20retinex)_] 
 
 ## Project-Experiences
-- 2021.01-20xx.xx &nbsp; intern at YouTu Lab, Tencent;
+- 2021.01-20xx.xx &nbsp; Research intern at YouTu Lab, Tencent;
 - 2019.09-2020.10 &nbsp; AI Vision Based Auto-landing and Foreign Objects Detection, Honeywell International; 
 - 2017.03-2019.06 &nbsp; Research on Low Rank, Sparse and Patch-based Structure Image Processing Variational Models and Algorithms  &nbsp; (Number: 11671002)
 
