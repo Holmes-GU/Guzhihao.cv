@@ -18,6 +18,7 @@
 - 2012.9 - 2016.9 &nbsp;   _UJS_  &nbsp;&nbsp;&nbsp; School of Science
 
 ## Publications
+* ***Zhihao Gu***, 
 * ***Zhihao Gu***, _Yang Chen, Taiping Yao, Shouhong Ding, Jilin Li, Feiyue Huang, Lizhuang Ma._ Spatiotemporal Inconsistency Learning for DeepFake Video Detection. *ACM International Conference on Multimedia,* 2021. &nbsp; (CCF A) &nbsp; [_[Paper](https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=A%20Novel%20Retinex-Based%20Fractional-Order%20Variational%20Model%20for%20Images%20With%20Severely%20Low%20Light)_] &nbsp; [_[Code](https://github.com/Holmes-GU/Image-Retinex/tree/master/2019%20TIP%20retinex)_]
 * _Mengtian Li_, ***Zhihao Gu***, _Yuan Xie_, _Haichuan Song_, _Lizhuang Ma_. Attention-aware Graph Convolutional Neural Network for Point Cloud Analysis. *Pattern Recognition*, 2021.
 * ***Zhihao Gu***, _Fang Li_, _Faming Fang, and Guixu Zhang_. A Novel Retinex-Based Fractional-Order Variational Model for Images with Severely Low Light. *IEEE Transactions on Image Processing* 29 (2019):3239-3253. &nbsp;(CCF A) &nbsp; [_[Paper](https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=A%20Novel%20Retinex-Based%20Fractional-Order%20Variational%20Model%20for%20Images%20With%20Severely%20Low%20Light)_] &nbsp; [_[Code](https://github.com/Holmes-GU/Image-Retinex/tree/master/2019%20TIP%20retinex)_] 
