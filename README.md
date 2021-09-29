@@ -34,6 +34,7 @@
 - Conference reviewer: NCIG2020.
 
 ## Conference-Attendance
+- 2021.10.20 - 2021.10.24;
 - 2019.8 &nbsp; _WAIC &nbsp; International Frontier Algorithm Forum，Tencent Forum_；  
 - 2019.5 &nbsp; _Cross Media Intelligence and Computer Vision Graduate Academi Forum &nbsp; SJTU_；  
 - 2018.9 &nbsp; _TencentYouTu &《Science》 Computer Vision Summit_；  
