@@ -15,7 +15,7 @@
 ## Education
 - 2019.9 - 202X.6 &nbsp;   _SJTU_ &nbsp; School of Electronical Information and Electrical Engineering, &nbsp;  _DMCV Lab_; 
 - 2016.9 - 2019.6 &nbsp;   _ECNU_         School of Mathematics, &nbsp; _Image Processing Lab_;
-- 2012.9 - 2016.9 &nbsp;   _UJS_  &nbsp;&nbsp;&nbsp; School of Science;
+- 2012.9 - 2016.9 &nbsp;   _UJS_  &nbsp;&nbsp;&nbsp; School of Science.
 
 ## Publications
 * ***Zhihao Gu***, 
@@ -28,7 +28,7 @@
 - 2021.01-20xx.xx &nbsp; Research intern at YouTu Lab, Tencent;
   - 2021.05-2021.06 &nbsp; 3rd Face Anti-spoofing Challenge@ICCV2021, second place;
 - 2019.09-2020.10 &nbsp; AI Vision Based Auto-landing and Foreign Objects Detection, Honeywell International; 
-- 2017.03-2019.06 &nbsp; Research on Low Rank, Sparse and Patch-based Structure Image Processing Variational Models and Algorithms  &nbsp; (Number: 11671002);
+- 2017.03-2019.06 &nbsp; Research on Low Rank, Sparse and Patch-based Structure Image Processing Variational Models and Algorithms  &nbsp; (Number: 11671002).
 
 ## Academic-Activities
 - Conference reviewer: XXXX2021;
@@ -41,6 +41,6 @@
 - 2018.09 &nbsp; _TencentYouTu &《Science》 Computer Vision Summit_；  
 - 2018.07 &nbsp; _Deep Learning Seminar, SJTU_；  
 - 2018.05 &nbsp; _The 18th Union of Mathemtical Image Annual Meeting, ECNU_；  
-- 2017.04 &nbsp; _Vision and Learning Seminar, Xiameng University_；  
+- 2017.04 &nbsp; _Vision and Learning Seminar, Xiameng University_.  
 
 
