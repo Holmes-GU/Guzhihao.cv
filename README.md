@@ -35,12 +35,12 @@
 - Conference reviewer: NCIG2020.
 
 ## Conference-Attendance
-- 2021, Oct. 20th-24th. &nbsp; _the 29th ACM International Conference on Multimedia, Chengdu, China_;
-- 2019.8 &nbsp; _WAIC &nbsp; International Frontier Algorithm Forum，Tencent Forum_；  
-- 2019.5 &nbsp; _Cross Media Intelligence and Computer Vision Graduate Academi Forum &nbsp; SJTU_；  
-- 2018.9 &nbsp; _TencentYouTu &《Science》 Computer Vision Summit_；  
-- 2018.7 &nbsp; _Deep Learning Seminar &nbsp; SJTU_；  
-- 2018.5 &nbsp; _The 18th Union of Mathemtical Image Annual Meeting &nbsp; ECNU_；  
-- 2017.4 &nbsp; _Vision and Learning Seminar &nbsp; Xiameng University_；  
+- 2021.10, 20th-24th. &nbsp; _the 29th ACM International Conference on Multimedia, Chengdu, China_;
+- 2019.08 &nbsp; _WAIC &nbsp; International Frontier Algorithm Forum，Tencent Forum_；  
+- 2019.05 &nbsp; _Cross Media Intelligence and Computer Vision Graduate Academi Forum &nbsp; SJTU_；  
+- 2018.09 &nbsp; _TencentYouTu &《Science》 Computer Vision Summit_；  
+- 2018.07 &nbsp; _Deep Learning Seminar &nbsp; SJTU_；  
+- 2018.05 &nbsp; _The 18th Union of Mathemtical Image Annual Meeting &nbsp; ECNU_；  
+- 2017.04 &nbsp; _Vision and Learning Seminar &nbsp; Xiameng University_；  
 
 
