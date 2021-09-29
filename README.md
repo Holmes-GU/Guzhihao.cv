@@ -35,7 +35,7 @@
 - Conference reviewer: NCIG2020.
 
 ## Conference-Attendance
-- October 20th-24th, 2021 Chengdu, China. &nbsp; _the 29th ACM International Conference on Multimedia_;
+- 2021, Oct. 20th-24th, Chengdu, China. &nbsp; _the 29th ACM International Conference on Multimedia_;
 - 2019.8 &nbsp; _WAIC &nbsp; International Frontier Algorithm Forum，Tencent Forum_；  
 - 2019.5 &nbsp; _Cross Media Intelligence and Computer Vision Graduate Academi Forum &nbsp; SJTU_；  
 - 2018.9 &nbsp; _TencentYouTu &《Science》 Computer Vision Summit_；  
