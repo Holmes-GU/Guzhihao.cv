@@ -31,7 +31,6 @@
 - 2017.03-2019.06 &nbsp; Research on Low Rank, Sparse and Patch-based Structure Image Processing Variational Models and Algorithms  &nbsp; (Number: 11671002).
 
 ## Academic-Activities
-- Conference reviewer: XXXX2021;
 - Conference reviewer: NCIG2020.
 
 ## Conference-Attendance
