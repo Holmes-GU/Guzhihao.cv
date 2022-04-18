@@ -20,7 +20,7 @@
 ## Publications
 * ***Zhihao Gu***
 * ***Zhihao Gu***
-* ***Zhihao Gu***, _Yang Chen, Taiping Yao, Shouhong Ding, Jilin Li, Lizhuang Ma._ Delving into the Local: Dynamic Inconsistency Learning for DeepFake Video Detection. *The 36th AAAI Conference on Artificial Intelligence.* 2022. &nbsp; (Poster, CCF A) &nbsp;
+* ***Zhihao Gu***, _Yang Chen, Taiping Yao, Shouhong Ding, Jilin Li, Lizhuang Ma._ _[Delving into the Local: Dynamic Inconsistency Learning for DeepFake Video Detection]()_. *The 36th AAAI Conference on Artificial Intelligence.* 2022. &nbsp; (Poster, CCF A) &nbsp;
 * _Yuchen Gong, ***Zhihao Gu<sup>*</sup>***, Li zhuang Ma and Zhenghao Zhang._ CPSAM: Channel and Position Squeeze Attention Module. *International Conference on Neural Information Processing.* 2021. &nbsp; (Oral, CCF C) &nbsp;
 * ***Zhihao Gu***, _Yang Chen, Taiping Yao, Shouhong Ding, Jilin Li, Feiyue Huang, Lizhuang Ma._ _[Spatiotemporal Inconsistency Learning for DeepFake Video Detection](https://arxiv.org/abs/2109.01860)_. *The 29th ACM International Conference on Multimedia.* 2021. &nbsp; (Poster, CCF A) &nbsp; [_[Code](https://github.com/Holmes-GU/Image-Retinex/tree/master/2019%20TIP%20retinex)_]
 * ***Zhihao Gu***, _Fang Li_, _Faming Fang, and Guixu Zhang_. _[A Novel Retinex-Based Fractional-Order Variational Model for Images with Severely Low Light](https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=A%20Novel%20Retinex-Based%20Fractional-Order%20Variational%20Model%20for%20Images%20With%20Severely%20Low%20Light)_. *IEEE Transactions on Image Processing* 29 (2019):3239-3253. &nbsp;(CCF A) &nbsp; [_[Code](https://github.com/Holmes-GU/Image-Retinex/tree/master/2019%20TIP%20retinex)_] 
