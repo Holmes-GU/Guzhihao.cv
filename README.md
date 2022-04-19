@@ -34,7 +34,8 @@
 
 ## Academic-Activities
 - Conference reviewer:
-  -  NCIG2020, CVPR2022
+  -  NCIG2020;
+  -  CVPR2022;
 
 
 ## Conference-Attendance
