@@ -33,7 +33,9 @@
 - 2017.03-2019.06 &nbsp; Research on Low Rank, Sparse and Patch-based Structure Image Processing Variational Models and Algorithms  &nbsp; (Number: 11671002).
 
 ## Academic-Activities
-- Conference reviewer: NCIG2020.
+- Conference reviewer:
+  -  NCIG2020, CVPR2022
+
 
 ## Conference-Attendance
 - 2021.10, 20th-24th. &nbsp; _The 29th ACM International Conference on Multimedia, Chengdu, China_;
