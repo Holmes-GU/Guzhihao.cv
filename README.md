@@ -39,6 +39,7 @@
 
 
 ## Conference-Attendance
+- 2022.2, 23th-2022.2, 24th. &nbsp; _The 36th AAAI Conference on Artificial Intelligence, Virtual_;
 - 2021.10, 20th-24th. &nbsp; _The 29th ACM International Conference on Multimedia, Chengdu, China_;
 - 2019.08 &nbsp; _WAIC &nbsp; International Frontier Algorithm Forum，Tencent Forum_；  
 - 2019.05 &nbsp; _Cross Media Intelligence and Computer Vision Graduate Academi Forum, SJTU_；  
