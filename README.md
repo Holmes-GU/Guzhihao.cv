@@ -18,7 +18,7 @@
 - 2012.9 - 2016.9 &nbsp;   _UJS_  &nbsp;&nbsp;&nbsp; School of Science.
 
 ## Publications
-* ***Zhihao Gu***
+* ***Zhihao Gu***, _[Hierarchical Contrastive Inconsistency Learning for Deepfake Video Detection]()_.
 * ***Zhihao Gu***, _Taiping Yao, Yang Chen, Ran Yi, Shouhong Ding, Lizhuang Ma._ _[Region-Aware Temporal Inconsistency Learning for DeepFake Video Detection]()_. *The 31st International Joint Conference on Artificial Intelligence (IJCAI),* 2022. &nbsp; (Short Oral & Poster presentation, CCF A) &nbsp;
 * ***Zhihao Gu***, _Yang Chen, Taiping Yao, Shouhong Ding, Jilin Li, Lizhuang Ma._ _[Delving into the Local: Dynamic Inconsistency Learning for DeepFake Video Detection](https://www.aaai.org/AAAI22Papers/AAAI-1978.GuZ.pdf)_. *The 36th AAAI Conference on Artificial Intelligence (AAAI),* 2022. &nbsp; (Poster, CCF A) &nbsp;
 * _Yuchen Gong, ***Zhihao Gu<sup>*</sup>***, Lizhuang Ma and Zhenghao Zhang._ _[CPSAM: Channel and Position Squeeze Attention Module](https://link.springer.com/chapter/10.1007/978-3-030-92185-9_16)_. *International Conference on Neural Information Processing,* 2021. &nbsp; (Oral, CCF C) &nbsp;
