@@ -37,9 +37,10 @@
 
 ## Academic-Activities
 - Conference reviewer:
-  -  NCIG2020;
-  -  CVPR2022;
   -  AAAI2023;
+  -  CVPR2022;
+  -  NCIG2020;
+  -  CMD Trans;
 
 
 ## Conference-Attendance
