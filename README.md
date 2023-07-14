@@ -21,6 +21,7 @@
 * ***Zhihao Gu***,
 * ***Zhihao Gu***,
 * ***Zhihao Gu***. _Liang Liu, Xu Chen, Ran Yi, Jiangning Zhang, Yabiao Wang, Chengjie Wang, Annan Shu, Guannan Jiang, Lizhuang Ma._ _[Remembering Normality: Memory-guided Knowledge Distillation for Unsupervised Anomaly Detection]()_. *International Conference on Computer Vision (ICCV),* 2023. &nbsp; (Acceptance rate of ??, ??, CCF A) &nbsp;
+* _[Towards artistic image aesthetics assessment: a large-scale dataset and a new method]()_. *International Conferencr on Computer Vision and Pattern Recognition (CVPR),* 2023. &nbsp; (Acceptance rate of ?? & Poster presentatio, CCF A) &nbsp;
 * ***Zhihao Gu***, _Taiping Yao, Yang Chen, Shouhong Ding, Lizhuang Ma._ _[Hierarchical Contrastive Inconsistency Learning for Deepfake Video Detection]()_. *The 17th European Conference on Computer Vision (ECCV),* 2022.  &nbsp; (Acceptance rate of 28%, Poster, CCF B) &nbsp;
 * ***Zhihao Gu***, _Taiping Yao, Yang Chen, Ran Yi, Shouhong Ding, Lizhuang Ma._ _[Region-Aware Temporal Inconsistency Learning for DeepFake Video Detection]()_. *The 31st International Joint Conference on Artificial Intelligence (IJCAI),* 2022. &nbsp; (Acceptance rate of 15%; Short Oral & Poster presentation, CCF A) &nbsp;
 * ***Zhihao Gu***, _Yang Chen, Taiping Yao, Shouhong Ding, Jilin Li, Lizhuang Ma._ _[Delving into the Local: Dynamic Inconsistency Learning for DeepFake Video Detection](https://www.aaai.org/AAAI22Papers/AAAI-1978.GuZ.pdf)_. *The 36th AAAI Conference on Artificial Intelligence (AAAI),* 2022. &nbsp; (Acceptance rate of 15%; Poster, CCF A)
