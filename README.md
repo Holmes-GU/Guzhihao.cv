@@ -49,6 +49,7 @@
   - CMD Trans;
 
 ## Conference-Attendance
+- 2023.6 - Now. ;
 - 2022.2, 23th-2022.3, 2th. &nbsp; _The 36th AAAI Conference on Artificial Intelligence, Virtual_;
 - 2021.10, 20th-24th. &nbsp; _The 29th ACM International Conference on Multimedia, Chengdu, China_;
 - 2019.08 &nbsp; _WAIC &nbsp; International Frontier Algorithm Forum，Tencent Forum_；  
