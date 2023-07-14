@@ -38,13 +38,14 @@
 - 2017.03-2019.06 &nbsp; Research on Low Rank, Sparse and Patch-based Structure Image Processing Variational Models and Algorithms  &nbsp; (Number: 11671002).
 
 ## Academic-Activities
+- Conference PC:
+  - ICONIP2023;
 - Conference reviewer:
   -  ICONIP2023;
   -  AAAI2023;
   -  CVPR2022;
   -  NCIG2020;
   -  CMD Trans;
-
 
 ## Conference-Attendance
 - 2022.2, 23th-2022.3, 2th. &nbsp; _The 36th AAAI Conference on Artificial Intelligence, Virtual_;
