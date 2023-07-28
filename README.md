@@ -33,7 +33,7 @@
 ## Project-Experiences
 - 2023.06-Now &nbsp; &nbsp; &nbsp; Research intern at Tencent Youtu Lab;
 - 2022.07-2023.06 &nbsp; Intern at Contemporary Amperex Technology Co., Limited (CATL);
-- 2021.01-2022.07 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Research intern at Youtu Lab, Tencent;
+- 2021.01-2022.07 &nbsp; &nbsp; Research intern at Youtu Lab, Tencent;
   - 2021.05-2021.06 &nbsp; 3rd Face Anti-spoofing Challenge@ICCV2021, second place;
 - 2019.09-2020.10 &nbsp; AI Vision Based Auto-Landing and Foreign Objects Detection, Honeywell International Inc.; 
 - 2017.03-2019.06 &nbsp; Research on Low Rank, Sparse and Patch-based Structure Image Processing Variational Models and Algorithms  &nbsp; (Number: 11671002).
