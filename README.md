@@ -19,7 +19,7 @@
 
 ## Publications
 * ***Zhihao Gu***,
-* ***Zhihao Gu***, _Taihai Yang, LiZhuang Ma_. _Prototype-Aware Contrastive Knowledge Distillation for Few-Shot Anomaly Detection_. *British Machine Vision Conference (BMVC),* 2023. &nbsp; (Acceptance rate of ??, ??, CCF C) &nbsp;
+* ***Zhihao Gu***, _Taihai Yang, Lizhuang Ma_. _Prototype-Aware Contrastive Knowledge Distillation for Few-Shot Anomaly Detection_. *British Machine Vision Conference (BMVC),* 2023. &nbsp; (Acceptance rate of ??, ??, CCF C) &nbsp;
 * ***Zhihao Gu***. _Liang Liu, Xu Chen, Ran Yi, Jiangning Zhang, Yabiao Wang, Chengjie Wang, Annan Shu, Guannan Jiang, Lizhuang Ma._ _[Remembering Normality: Memory-guided Knowledge Distillation for Unsupervised Anomaly Detection]()_. *International Conference on Computer Vision (ICCV),* 2023. &nbsp; (Acceptance rate of ??, ??, CCF A) &nbsp;
 * Ran Yi, Haoyuan Tian, ***Zhihao Gu***, Yu-Kun Lai, Paul L Rosin. _[Towards artistic image aesthetics assessment: a large-scale dataset and a new method]()_. *Computer Vision and Pattern Recognition (CVPR),* 2023. &nbsp; (Acceptance rate of 25.78% & Poster presentation, CCF A) &nbsp;
 * ***Zhihao Gu***, _Taiping Yao, Yang Chen, Shouhong Ding, Lizhuang Ma._ _[Hierarchical Contrastive Inconsistency Learning for Deepfake Video Detection]()_. *The 17th European Conference on Computer Vision (ECCV),* 2022.  &nbsp; (Acceptance rate of 28%, Poster, CCF B) &nbsp;
