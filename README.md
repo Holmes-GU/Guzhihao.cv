@@ -18,7 +18,7 @@
 - 2012.9 - 2016.9 &nbsp;   _UJS_  &nbsp;&nbsp;&nbsp; School of Science.
 
 ## Publications
-* ***Zhihao Gu***,
+* ***Zhihao Gu***, _Jiangning Zhang, Liang Liu, Xu Chen, Jinlong Peng, Zhenye Gan, Guannan Jiang, Annan Shu, Yabiao Wang, Lizhuang Ma_. _[Rethinking Reverse Distillation for Multi-Modal Anomaly Detection.]_*The 38th AAAI Conference on Artificial Intelligence (AAAI), 2024. &nbsp; (Acceptance rate of ??, ??, CCF A) &nbsp;
 * ***Zhihao Gu***, _Taihai Yang, Lizhuang Ma_. _[Prototype-Aware Contrastive Knowledge Distillation for Few-Shot Anomaly Detection]()_. *British Machine Vision Conference (BMVC),* 2023. &nbsp; (Acceptance rate of ??, ??, CCF C) &nbsp;
 * ***Zhihao Gu***. _Liang Liu, Xu Chen, Ran Yi, Jiangning Zhang, Yabiao Wang, Chengjie Wang, Annan Shu, Guannan Jiang, Lizhuang Ma._ _[Remembering Normality: Memory-guided Knowledge Distillation for Unsupervised Anomaly Detection]()_. *International Conference on Computer Vision (ICCV),* 2023. &nbsp; (Acceptance rate of 26.8%, Poster, CCF A) &nbsp;
 * Ran Yi, Haoyuan Tian, ***Zhihao Gu***, Yu-Kun Lai, Paul L Rosin. _[Towards artistic image aesthetics assessment: a large-scale dataset and a new method]()_. *Computer Vision and Pattern Recognition (CVPR),* 2023. &nbsp; (Acceptance rate of 25.78% & Poster presentation, CCF A) &nbsp;
