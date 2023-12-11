@@ -18,6 +18,8 @@
 - 2012.9 - 2016.9 &nbsp;   _UJS_  &nbsp;&nbsp;&nbsp; School of Science.
 
 ## Publications
+Industrial Defects Detection
+
 * ***Zhihao Gu***, _Jiangning Zhang, Liang Liu, Xu Chen, Jinlong Peng, Zhenye Gan, Guannan Jiang, Annan Shu, Yabiao Wang, Lizhuang Ma_. _[Rethinking Reverse Distillation for Multi-Modal Anomaly Detection]()_. *The 38th AAAI Conference on Artificial Intelligence (AAAI), 2024. &nbsp; (Acceptance rate of 23.75%, ??, CCF A) &nbsp;
 * ***Zhihao Gu***, _Taihai Yang, Lizhuang Ma_. _[Prototype-Aware Contrastive Knowledge Distillation for Few-Shot Anomaly Detection]()_. *British Machine Vision Conference (BMVC),* 2023. &nbsp; (Acceptance rate of ??, ??, CCF C) &nbsp;
 * ***Zhihao Gu***. _Liang Liu, Xu Chen, Ran Yi, Jiangning Zhang, Yabiao Wang, Chengjie Wang, Annan Shu, Guannan Jiang, Lizhuang Ma._ _[Remembering Normality: Memory-guided Knowledge Distillation for Unsupervised Anomaly Detection]()_. *International Conference on Computer Vision (ICCV),* 2023. &nbsp; (Acceptance rate of 26.8%, Poster, CCF A) &nbsp;
