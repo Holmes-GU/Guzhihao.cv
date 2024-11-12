@@ -9,7 +9,7 @@
 - [Conference-Attendance](#Conference-Attendance)  
 
 ## Self-Introduction
-- My research interest for now is mainly on _Industrial Anomaly Detection, DeepFake Video Detection and Video Processing_. I am also interested in _Action Recognition_, _Uncertainty Quantilification in Deep Learning_, _Multi-Task Learning_, _[object detection](https://github.com/Holmes-GU/Object-Detection)_ and _[Retinex theory for low light image enhancement](https://github.com/Holmes-GU/Image-Retinex)_.  
+- My research interest for now is mainly on _Emboddied AI_. The past ones include _Industrial Anomaly Detection_, _DeepFake Video Detection_, _Video Processing_, _Action Recognition_, _Uncertainty Quantilification in Deep Learning_, _Multi-Task Learning_, _[object detection](https://github.com/Holmes-GU/Object-Detection)_ and _[Retinex theory for low light image enhancement](https://github.com/Holmes-GU/Image-Retinex)_.  
 - E-mail address: **ellery-holmes@sjtu.edu.cn**
 
 ## Education
