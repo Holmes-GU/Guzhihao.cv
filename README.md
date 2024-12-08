@@ -10,10 +10,10 @@
 
 ## Self-Introduction
 - My research interest for now lies in _Emboddied AI_. The past ones include _Industrial Anomaly Detection_, _DeepFake Video Detection_, _Video Processing_, _Action Recognition_, _Uncertainty Quantilification in Deep Learning_, _Multi-Task Learning_, _[object detection](https://github.com/Holmes-GU/Object-Detection)_ and _[Retinex theory for low light image enhancement](https://github.com/Holmes-GU/Image-Retinex)_.  
-- E-mail address: ~~**ellerygu@hku.hk**
+- E-mail address: **ellerygu@hku.hk**
 
 ## Education
-- 2024.8 - Now    &nbsp; &nbsp; &nbsp;   _HKU_ &nbsp; Department of Computer Science, &nbsp;  _JC STEM Lab_; 
+- 2024.8 - Now    &nbsp; &nbsp; &nbsp;   _HKU_ &nbsp; School of Computing and Data Science, &nbsp; Department of Computer Science, &nbsp;  _JC STEM Lab_; 
 - 2019.9 - 2024.6 &nbsp;   _SJTU_ &nbsp; School of Electronical Information and Electrical Engineering, &nbsp;  _DMCV Lab_; 
 - 2016.9 - 2019.6 &nbsp;   _ECNU_         School of Mathematics, &nbsp; _Image Processing Lab_;
 - 2012.9 - 2016.9 &nbsp;   _UJS_  &nbsp;&nbsp;&nbsp; School of Science.
