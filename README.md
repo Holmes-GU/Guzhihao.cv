@@ -9,7 +9,7 @@
 - [Conference-Attendance](#Conference-Attendance)  
 
 ## Self-Introduction
-- My research interest for now lies in _Emboddied AI_. The past ones include _Industrial Anomaly Detection_, _DeepFake Video Detection_, _Video Processing_, _Action Recognition_, _Uncertainty Quantilification in Deep Learning_, _Multi-Task Learning_, _[object detection](https://github.com/Holmes-GU/Object-Detection)_ and _[Retinex theory for low light image enhancement](https://github.com/Holmes-GU/Image-Retinex)_.  
+- My research interest, for now, lies in _Embodied AI_. The past ones include _Industrial Anomaly Detection_, _DeepFake Video Detection_, _Video Processing_, _Action Recognition_, _Uncertainty Quantilification in Deep Learning_, _Multi-Task Learning_, _[object detection](https://github.com/Holmes-GU/Object-Detection)_ and _[Retinex theory for low light image enhancement](https://github.com/Holmes-GU/Image-Retinex)_.  
 - E-mail address: **ellerygu@hku.hk**
 
 ## Education
@@ -19,6 +19,11 @@
 - 2012.9 - 2016.9 &nbsp;   _UJS_  &nbsp;&nbsp;&nbsp; School of Science.
 
 ## Publications
+### Embodied AI
+
+* ***Zhihao Gu***,
+
+
 ### Industrial Defects Detection
 
 * ***Zhihao Gu***, _Jiangning Zhang, Liang Liu, Xu Chen, Jinlong Peng, Zhenye Gan, Guannan Jiang, Annan Shu, Yabiao Wang, Lizhuang Ma_. _[Rethinking Reverse Distillation for Multi-Modal Anomaly Detection]()_. *The 38th AAAI Conference on Artificial Intelligence (AAAI), 2024. &nbsp; (Acceptance rate of 23.75%, ??, CCF A) &nbsp;
