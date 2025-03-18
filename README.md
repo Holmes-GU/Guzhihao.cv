@@ -19,19 +19,19 @@
 - 2012.9 - 2016.9 &nbsp;   _UJS_  &nbsp;&nbsp;&nbsp; School of Science.
 
 ## Publications
-### Topic_1. Embodied AI
+### Topic1: &nbsp; Embodied AI
 
 * ***Zhihao Gu***,
 
 
-### 2. Industrial Defects Detection
+### Topic2: &nbsp; Industrial Defects Detection
 
 * ***Zhihao Gu***, _Jiangning Zhang, Liang Liu, Xu Chen, Jinlong Peng, Zhenye Gan, Guannan Jiang, Annan Shu, Yabiao Wang, Lizhuang Ma_. _[Rethinking Reverse Distillation for Multi-Modal Anomaly Detection]()_. *The 38th AAAI Conference on Artificial Intelligence (AAAI), 2024. &nbsp; (Acceptance rate of 23.75%, ??, CCF A) &nbsp;
 * ***Zhihao Gu***, _Taihai Yang, Lizhuang Ma_. _[Prototype-Aware Contrastive Knowledge Distillation for Few-Shot Anomaly Detection]()_. *British Machine Vision Conference (BMVC),* 2023. &nbsp; (Acceptance rate of ??, ??, CCF C) &nbsp;
 * ***Zhihao Gu***. _Liang Liu, Xu Chen, Ran Yi, Jiangning Zhang, Yabiao Wang, Chengjie Wang, Annan Shu, Guannan Jiang, Lizhuang Ma._ _[Remembering Normality: Memory-guided Knowledge Distillation for Unsupervised Anomaly Detection]()_. *International Conference on Computer Vision (ICCV),* 2023. &nbsp; (Acceptance rate of 26.8%, Poster, CCF A) &nbsp;
 * Ran Yi, Haoyuan Tian, ***Zhihao Gu***, Yu-Kun Lai, Paul L Rosin. _[Towards artistic image aesthetics assessment: a large-scale dataset and a new method]()_. *Computer Vision and Pattern Recognition (CVPR),* 2023. &nbsp; (Acceptance rate of 25.78% & Poster presentation, CCF A) &nbsp;
 
-### 3. Deepfake Video Detection
+### Topic3: &nbsp; Deepfake Video Detection
 
 * ***Zhihao Gu***, _Taiping Yao, Yang Chen, Shouhong Ding, Lizhuang Ma._ _[Hierarchical Contrastive Inconsistency Learning for Deepfake Video Detection]()_. *The 17th European Conference on Computer Vision (ECCV),* 2022.  &nbsp; (Acceptance rate of 28%, Poster, CCF B) &nbsp;
 * ***Zhihao Gu***, _Taiping Yao, Yang Chen, Ran Yi, Shouhong Ding, Lizhuang Ma._ _[Region-Aware Temporal Inconsistency Learning for DeepFake Video Detection]()_. *The 31st International Joint Conference on Artificial Intelligence (IJCAI),* 2022. &nbsp; (Acceptance rate of 15%; Short Oral & Poster presentation, CCF A) &nbsp;
@@ -39,7 +39,7 @@
 * _Yuchen Gong, ***Zhihao Gu<sup>*</sup>***, Lizhuang Ma and Zhenghao Zhang._ _[CPSAM: Channel and Position Squeeze Attention Module](https://link.springer.com/chapter/10.1007/978-3-030-92185-9_16)_. *International Conference on Neural Information Processing,* 2021. &nbsp; (Oral, CCF C) &nbsp;
 * ***Zhihao Gu***, _Yang Chen, Taiping Yao, Shouhong Ding, Jilin Li, Feiyue Huang, Lizhuang Ma._ _[Spatiotemporal Inconsistency Learning for DeepFake Video Detection](https://dl.acm.org/doi/pdf/10.1145/3474085.3475508)_. *The 29th ACM International Conference on Multimedia (ACM MM),* 2021. &nbsp; (Poster, CCF A) &nbsp; [_[Code](https://github.com/Holmes-GU/Image-Retinex/tree/master/2019%20TIP%20retinex)_]
 
-### 4. Image Enhancement
+### Topic4: &nbsp; Image Enhancement
 
 * ***Zhihao Gu***, _Fang Li_, _Faming Fang, and Guixu Zhang_. _[A Novel Retinex-Based Fractional-Order Variational Model for Images with Severely Low Light](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8931682)_. *IEEE Transactions on Image Processing* 29 (2019):3239-3253. &nbsp;(CCF A) &nbsp; [_[Code](https://github.com/Holmes-GU/Image-Retinex/tree/master/2019%20TIP%20retinex)_] 
 * ***Zhihao Gu***, _Fang Li, and Xiao-Guang Lv_. _[A detail preserving variational model for image retinex](https://www.sciencedirect.com/science/article/pii/S0307904X18305961)_. *Applied Mathematical Modelling* 68 (2019):643–661. &nbsp; (中科院分区 一区 &nbsp; h-index:93 &nbsp; CiteScore:7.50 &nbsp; SCIE) &nbsp; [_[Code](https://github.com/Holmes-GU/Image-Retinex/tree/master/2019%20AMM%20retinex)_]
