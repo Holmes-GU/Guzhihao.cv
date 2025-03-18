@@ -19,7 +19,7 @@
 - 2012.9 - 2016.9 &nbsp;   _UJS_  &nbsp;&nbsp;&nbsp; School of Science.
 
 ## Publications
-### 1. Embodied AI
+### Topic_1. Embodied AI
 
 * ***Zhihao Gu***,
 
