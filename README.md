@@ -56,6 +56,7 @@
 - Conference PC number:
   - ICONIP2023;
 - Conference reviewer:
+  - ICCV2025;
   - AAAI2024;
   - ICONIP2023;
   - AAAI2023;
