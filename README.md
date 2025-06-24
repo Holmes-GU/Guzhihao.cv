@@ -13,9 +13,9 @@
 - E-mail address: **ellerygu@hku.hk**
 
 ## Education
-- 2024.8 - Now    &nbsp; &nbsp; &nbsp;   _HKU_ &nbsp; School of Computing and Data Science, &nbsp; Department of Computer Science, &nbsp;  _JC STEM Lab_; 
-- 2019.9 - 2024.6 &nbsp;   _SJTU_ &nbsp; School of Electronical Information and Electrical Engineering, &nbsp;  _DMCV Lab_; 
-- 2016.9 - 2019.6 &nbsp;   _ECNU_         School of Mathematics, &nbsp; _Image Processing Lab_;
+- 2024.8 - Now    &nbsp; &nbsp; &nbsp;   _HKU_ &nbsp; School of Computing and Data Science, &nbsp; Department of Computer Science, &nbsp;  _JC STEM Lab_, &nbsp; advised by Professor _[Dong Xu](https://scholar.google.com/citations?user=7Hdu5k4AAAAJ&hl=zh-CN&oi=ao)_; 
+- 2019.9 - 2024.6 &nbsp;   _SJTU_ &nbsp; School of Electronical Information and Electrical Engineering, &nbsp;  _DMCV Lab_, &nbsp; supervised by Professor _[Lizhuang Ma](https://scholar.google.com/citations?user=yd58y_0AAAAJ&hl=zh-CN&oi=ao)_; 
+- 2016.9 - 2019.6 &nbsp;   _ECNU_         School of Mathematics, &nbsp; _Image Processing Lab_, , &nbsp; supervised by Professor _[Fang Li](https://scholar.google.com/citations?user=2_8WX68AAAAJ&hl=zh-CN&oi=ao)_;
 - 2012.9 - 2016.9 &nbsp;   _UJS_  &nbsp;&nbsp;&nbsp; School of Science.
 
 ## Publications
