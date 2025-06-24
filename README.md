@@ -69,6 +69,7 @@
 
 ## Conference-Attendance
 - 2025.06 &nbsp; _VALSE2025, Zhuhai, China_;
+- 2024.2, &nbsp; _The 38th AAAI Conference on Artificial Intelligence, Virtual_;
 - 2023.10 &nbsp; _International Conference on Computer Vision, Paris, France_;
 - 2022.2, 23th-2022.3, 2th. &nbsp; _The 36th AAAI Conference on Artificial Intelligence, Virtual_;
 - 2021.10, 20th-24th. &nbsp; _The 29th ACM International Conference on Multimedia, Chengdu, China_;
