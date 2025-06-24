@@ -13,10 +13,10 @@
 - E-mail address: **ellerygu@hku.hk**
 
 ## Education
-- 2024.8 - Now    &nbsp; &nbsp; &nbsp;   _HKU_ &nbsp; School of Computing and Data Science, Department of Computer Science,  _JC STEM Lab_, Advised by Prof. &nbsp; &nbsp; &nbsp; [Dong Xu](https://scholar.google.com/citations?user=7Hdu5k4AAAAJ&hl=zh-CN&oi=ao); 
-- 2019.9 - 2024.6 &nbsp;   _SJTU_ &nbsp; School of Electronical Information and Electrical Engineering, _DMCV Lab_, Supervised by Prof. [Lizhuang Ma](https://scholar.google.com/citations?user=yd58y_0AAAAJ&hl=zh-CN&oi=ao); 
-- 2016.9 - 2019.6 &nbsp;   _ECNU_         School of Mathematics, _Image Processing Lab_, Supervised by Prof. [Fang Li](https://scholar.google.com/citations?user=2_8WX68AAAAJ&hl=zh-CN&oi=ao);
-- 2012.9 - 2016.9 &nbsp;   _UJS_  &nbsp;&nbsp;&nbsp; School of Science.
+- 2024.8 - Now    &nbsp; &nbsp; &nbsp;   HKU &nbsp; School of Computing and Data Science, Department of Computer Science,  _JC STEM Lab_, Advised by Prof. &nbsp; &nbsp; &nbsp; [Dong Xu](https://scholar.google.com/citations?user=7Hdu5k4AAAAJ&hl=zh-CN&oi=ao); 
+- 2019.9 - 2024.6 &nbsp;                 SJTU, &nbsp; School of Electronical Information and Electrical Engineering, _DMCV Lab_, Supervised by Prof. [Lizhuang Ma](https://scholar.google.com/citations?user=yd58y_0AAAAJ&hl=zh-CN&oi=ao); 
+- 2016.9 - 2019.6 &nbsp;                 ECNU,         School of Mathematics, _Image Processing Lab_, Supervised by Prof. [Fang Li](https://scholar.google.com/citations?user=2_8WX68AAAAJ&hl=zh-CN&oi=ao);
+- 2012.9 - 2016.9 &nbsp;                 UJS, &nbsp;&nbsp;&nbsp; School of Science.
 
 ## Publications
 ### Topic1: &nbsp; Embodied AI
