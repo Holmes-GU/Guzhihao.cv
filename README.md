@@ -9,7 +9,7 @@
 - [Conference-Attendance](#Conference-Attendance)  
 
 ## Self-Introduction
-- My research interest, for now, lies in _Embodied AI_. The past ones include _Industrial Anomaly Detection_, _DeepFake Video Detection_, _Video Processing_, _Action Recognition_, _Uncertainty Quantilification in Deep Learning_, _Multi-Task Learning_, _[object detection](https://github.com/Holmes-GU/Object-Detection)_ and _[Retinex theory for low light image enhancement](https://github.com/Holmes-GU/Image-Retinex)_.  
+- My research interest, for now, lies in _Vision for Robots in Embodied AI_. The past ones include _Industrial Anomaly Detection_, _DeepFake Video Detection_, _Video Processing_, _Action Recognition_, _Uncertainty Quantilification in Deep Learning_, _Multi-Task Learning_, _[object detection](https://github.com/Holmes-GU/Object-Detection)_ and _[Retinex theory for low light image enhancement](https://github.com/Holmes-GU/Image-Retinex)_.  
 - E-mail address: **ellerygu@hku.hk**
 
 ## Education
