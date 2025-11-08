@@ -19,7 +19,7 @@
 - 2012.9 - 2016.9 &nbsp;                 UJS,  School of Science.
 
 ## Publications
-### Topic1: &nbsp; Embodied AI
+### Topic1: &nbsp; Vision for Robotics
 
 * ***Zhihao Gu***,
 
