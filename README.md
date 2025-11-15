@@ -20,7 +20,7 @@
 - 2012.9 - 2016.9 &nbsp;                 UJS,  School of Science.
 
 ## Publications
-### Topic4: &nbsp; Vision for Robotics
+### Topic4: &nbsp; Robot Manipulation (Vision for Robotics)
 
 * ***Zhihao Gu***,
 
