@@ -24,6 +24,8 @@
 
 * ***Zhihao Gu***,
 
+* ***Zhihao Gu***,
+
 * ***Zhihao Gu***, _Min Yang, Difan Zou, Dong Xu_. _[Learning Diffusion Policy from Primitive Skills for Robot Manipulation]()_. *The 40th AAAI Conference on Artificial Intelligence (AAAI), 2026. &nbsp; (Overall acceptance rate of 17.6%, poster, CCF A) &nbsp;
 
 ### Topic2: &nbsp; Industrial Defects Detection
