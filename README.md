@@ -49,8 +49,9 @@
 
 ### Others:
 
-* _Yuchen Gong, ***Zhihao Gu<sup>*</sup>***, Lizhuang Ma and Zhenghao Zhang._ _[CPSAM: Channel and Position Squeeze Attention Module](https://link.springer.com/chapter/10.1007/978-3-030-92185-9_16)_. *International Conference on Neural Information Processing,* 2021. &nbsp; (Oral, CCF C) &nbsp;
+* C Wang, ..., ***Zhihao Gu***, .... _Real-iad: A real-world multi-view dataset for benchmarking versatile industrial anomaly detection_. *Computer Vision and Pattern Recognition (CVPR),* 2024. &nbsp; (Acceptance rate of ??? & Poster presentation, CCF A) &nbsp;
 * Ran Yi, Haoyuan Tian, ***Zhihao Gu***, Yu-Kun Lai, Paul L Rosin. _[Towards artistic image aesthetics assessment: a large-scale dataset and a new method]()_. *Computer Vision and Pattern Recognition (CVPR),* 2023. &nbsp; (Acceptance rate of 25.78% & Poster presentation, CCF A) &nbsp;
+* _Yuchen Gong, ***Zhihao Gu<sup>*</sup>***, Lizhuang Ma and Zhenghao Zhang._ _[CPSAM: Channel and Position Squeeze Attention Module](https://link.springer.com/chapter/10.1007/978-3-030-92185-9_16)_. *International Conference on Neural Information Processing,* 2021. &nbsp; (Oral, CCF C) &nbsp;
 
 ## Project-Experiences
 - 2023.06-Now &nbsp; &nbsp; &nbsp; &nbsp; Research intern at Tencent Youtu Lab;
