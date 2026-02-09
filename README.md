@@ -21,9 +21,12 @@
 
 ## Publications
 ### Topic4: &nbsp; Vision for Robotics
-#### Robot Manipulation
+
+#### Humanoid
 
 * ***Zhihao Gu***,
+
+#### Robot Manipulation
 
 * ***Zhihao Gu***,
 
