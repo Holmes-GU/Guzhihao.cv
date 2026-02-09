@@ -20,12 +20,12 @@
 - 2012.9 - 2016.9 &nbsp;                 UJS,  School of Science.
 
 ## Publications
-### Topic4: &nbsp; Vision for Robotics
-
-#### Humanoid
+### Topic5: &nbsp; Human-Robot Interaction
 
 * ***Zhihao Gu***,
 
+
+### Topic4: &nbsp; Vision for Robotics
 #### Robot Manipulation
 
 * ***Zhihao Gu***,
