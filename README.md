@@ -30,7 +30,7 @@
 
 * ***Zhihao Gu***,
 
-* ***Zhihao Gu***,
+* ***Zhihao Gu***, _Lin Wang_. _[LiMoDE: Rethinking Lifelong Robot Manipulation from a Mixture-of-Dynamic-Experts Perspective]()_. *IEEE Robotics and Automation Letters (RA-L).
 
 * ***Zhihao Gu***, _Min Yang, Difan Zou, Dong Xu_. _[Learning Diffusion Policy from Primitive Skills for Robot Manipulation]()_. *The 40th AAAI Conference on Artificial Intelligence (AAAI), 2026. &nbsp; (Overall acceptance rate of 17.6%, poster, CCF A) &nbsp;
 
