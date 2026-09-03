@@ -70,6 +70,10 @@
 - Conference PC number:
   - ICONIP2023;
 - Conference reviewer:
+  - AAAI2027;
+  - BMVC2026;
+  - CoRL2026;
+  - NIPS2026;
   - ECCV2026;
   - CVPR2026
   - ICCV2025;
