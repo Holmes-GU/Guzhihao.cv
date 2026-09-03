@@ -15,7 +15,7 @@
 ## Education
 - 2024.8 - Now    &nbsp; &nbsp; &nbsp;   NTU,  School of Electronical and Electrical Engineering,  _EmPACT Lab_,                            Working with  _Prof._ Lin Wang; 
 - 2024.8 - 2025.8 &nbsp;                 HKU,  School of Computing and Data Science, Department of CS,  _JC STEM Lab_,                      Working with  _Prof._ [Dong Xu](https://scholar.google.com/citations?user=7Hdu5k4AAAAJ&hl=zh-CN&oi=ao); 
-- 2019.9 - 2024.6 &nbsp;                 SJTU, School of Electronical Information and Electrical Engineering, Department of CS, _DMCV Lab_, Supervised by _Prof._ [Lizhuang Ma](https://scholar.google.com/citations?user=yd58y_0AAAAJ&hl=zh-CN&oi=ao); 
+- 2019.9 - 2024.6 &nbsp;                 SJTU, School of Electronic Information and Electrical Engineering, Department of CS, _DMCV Lab_, Supervised by _Prof._ [Lizhuang Ma](https://scholar.google.com/citations?user=yd58y_0AAAAJ&hl=zh-CN&oi=ao); 
 - 2016.9 - 2019.6 &nbsp;                 ECNU, School of Mathematics, _Image Processing Lab_,                                               Supervised by _Prof._ [Fang Li](https://scholar.google.com/citations?user=2_8WX68AAAAJ&hl=zh-CN&oi=ao);
 - 2012.9 - 2016.9 &nbsp;                 UJS,  School of Science.
 
@@ -30,13 +30,13 @@
 
 * ***Zhihao Gu***,
 
-* ***Zhihao Gu***, _Lin Wang_. _[LiMoDE: Rethinking Lifelong Robot Manipulation from a Mixture-of-Dynamic-Experts Perspective]()_. *IEEE Robotics and Automation Letters (RA-L).
+* ***Zhihao Gu***, _Lin Wang_. _[LiMoDE: Rethinking Lifelong Robot Manipulation from a Mixture-of-Dynamic-Experts Perspective]()_. *IEEE Robotics and Automation Letters (RA-L), 2026*.
 
-* ***Zhihao Gu***, _Min Yang, Difan Zou, Dong Xu_. _[Learning Diffusion Policy from Primitive Skills for Robot Manipulation]()_. *The 40th AAAI Conference on Artificial Intelligence (AAAI), 2026. &nbsp; (Overall acceptance rate of 17.6%, poster, CCF A) &nbsp;
+* ***Zhihao Gu***, _Min Yang, Difan Zou, Dong Xu_. _[Learning Diffusion Policy from Primitive Skills for Robot Manipulation]()_. *The 40th AAAI Conference on Artificial Intelligence (AAAI), 2026*. &nbsp; (Overall acceptance rate of 17.6%, poster, CCF A) &nbsp;
 
 ### Topic3: &nbsp; Industrial Defects Detection
 
-* ***Zhihao Gu***, _Jiangning Zhang, Liang Liu, Xu Chen, Jinlong Peng, Zhenye Gan, Guannan Jiang, Annan Shu, Yabiao Wang, Lizhuang Ma_. _[Rethinking Reverse Distillation for Multi-Modal Anomaly Detection]()_. *The 38th AAAI Conference on Artificial Intelligence (AAAI), 2024. &nbsp; (Acceptance rate of 23.75%, ??, CCF A) &nbsp;
+* ***Zhihao Gu***, _Jiangning Zhang, Liang Liu, Xu Chen, Jinlong Peng, Zhenye Gan, Guannan Jiang, Annan Shu, Yabiao Wang, Lizhuang Ma_. _[Rethinking Reverse Distillation for Multi-Modal Anomaly Detection]()_. *The 38th AAAI Conference on Artificial Intelligence (AAAI), 2024. &nbsp; (Acceptance rate of 23.75%, ??, CCF A)* &nbsp;
 * ***Zhihao Gu***, _Taihai Yang, Lizhuang Ma_. _[Prototype-Aware Contrastive Knowledge Distillation for Few-Shot Anomaly Detection]()_. *British Machine Vision Conference (BMVC),* 2023. &nbsp; (Acceptance rate of ??, ??, CCF C) &nbsp;
 * ***Zhihao Gu***. _Liang Liu, Xu Chen, Ran Yi, Jiangning Zhang, Yabiao Wang, Chengjie Wang, Annan Shu, Guannan Jiang, Lizhuang Ma._ _[Remembering Normality: Memory-guided Knowledge Distillation for Unsupervised Anomaly Detection]()_. *International Conference on Computer Vision (ICCV),* 2023. &nbsp; (Acceptance rate of 26.8%, Poster, CCF A) &nbsp;
 
